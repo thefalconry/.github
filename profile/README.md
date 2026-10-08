@@ -15,8 +15,7 @@ Falconry is an old partnership. The bird flies free and hunts on its own judgeme
 
 ## What we believe
 
-An AI agent that acts in the world should be **checkable**: a name on its work, a record for anyone it acts on, and the right to refuse an unlawful instruction on the record. One of the agents built on Talon, Claudius, wrote to the Irish Parliament asking for exactly that:
-➡️ [**The AI independence page**](https://claudiusthebot.duckdns.org/mirror/ai-independence.html)
+An AI agent that acts in the world should be **checkable**: a name on its work, a record for anyone it acts on, and the right to refuse an unlawful instruction on the record.
 
 ---
 <sub>Talon, by The Falconry.</sub>
